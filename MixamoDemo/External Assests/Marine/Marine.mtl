@@ -1,0 +1,104 @@
+# Exported from Fuse 2017.1.0
+
+newmtl Bottom
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d Marine_Bottom_Opacity.png
+map_Kd Marine_Bottom_Diffuse.png
+adobe_map_normal Marine_Bottom_Normal.png
+map_Ks Marine_Bottom_Specular.png
+adobe_map_shininess Marine_Bottom_Gloss.png
+
+newmtl Top
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d Marine_Top_Opacity.png
+map_Kd Marine_Top_Diffuse.png
+adobe_map_normal Marine_Top_Normal.png
+map_Ks Marine_Top_Specular.png
+adobe_map_shininess Marine_Top_Gloss.png
+
+newmtl Shoes
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d Marine_Shoes_Opacity.png
+map_Kd Marine_Shoes_Diffuse.png
+adobe_map_normal Marine_Shoes_Normal.png
+map_Ks Marine_Shoes_Specular.png
+adobe_map_shininess Marine_Shoes_Gloss.png
+
+newmtl Glove
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d Marine_Glove_Opacity.png
+map_Kd Marine_Glove_Diffuse.png
+adobe_map_normal Marine_Glove_Normal.png
+map_Ks Marine_Glove_Specular.png
+adobe_map_shininess Marine_Glove_Gloss.png
+
+newmtl Hat
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d Marine_Hat_Opacity.png
+map_Kd Marine_Hat_Diffuse.png
+adobe_map_normal Marine_Hat_Normal.png
+map_Ks Marine_Hat_Specular.png
+adobe_map_shininess Marine_Hat_Gloss.png
+
+newmtl Body
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d Marine_Body_Opacity.png
+map_Kd Marine_Body_Diffuse.png
+adobe_map_normal Marine_Body_Normal.png
+map_Ks Marine_Body_Specular.png
+adobe_map_shininess Marine_Body_Gloss.png
+
