@@ -6,5 +6,6 @@ Simple project templates for several genres such as basic horror game, twin-stic
 
 Most projects are up-to-date to Unity version 2021.1.17f1
 
+![My Image](HDRP_LightingStrategies/HDRPStrategies_ProjectImage.PNG)
 ![My Image](NavMeshDemo/NavMesh_ProjectImage.PNG)
 ![My Image](TwinStick_StarterProject/TwinStick_ProjectImage.PNG)
