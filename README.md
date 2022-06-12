@@ -22,6 +22,9 @@ Demonstrates how to setup NavMesh and how to define agent settings, obstacles, o
 ### Scriptable Event System Demo
 Demonstrates how to setup a scriptable event system to control the game state and gameplay events. Based on the following Unity blog post: https://unity.com/how-to/architect-game-code-scriptable-objects
 ![My Image](ScriptableEventSystem/ScriptableEvents_ProjectImage.PNG)
+### LerpingWithCode Demo
+Demonstrates how to lerp an object with code. Covers different smooting/easing functions, how to warp and how to Yoyo, and how to implement custom animation curves all via code without the animator. 
+![My Image](LerpingWithCode/LerpingWithCode_ProjectImage.PNG)
 ### Mixamo Demo
 Simple workshop demonstrating how to import character animation from a library such as Mixamo and apply it to the player character. 
 ![My Image](MixamoDemo/MixamoDemo_ProjectImage.PNG)
