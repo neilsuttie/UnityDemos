@@ -14,7 +14,7 @@ Projects demonstrates different lighting strategies (e.g. Realtime, Baked, GI) a
 Contains everything students need to get going such as basic player movement, nav mesh enemies, score system, health system, etc.
 ![My Image](TwinStick_StarterProject/TwinStick_ProjectImage.PNG)
 ### Starter Files for a simple Horror Game Project
-Contains everything students need to get going such as character controller, flashlight controller, event scripting examples (i.e. jump scares), collectables, etc.
+Contains everything students need to get going such as character controller, flashlight controller, event scripting examples (i.e. jump scares), collectables, post processing effects, etc.
 ![My Image](HorrorGame_StarterProject/HorrorGame_ProjectImage.PNG)
 ### Cinemachine Setup Example
 Project Demonstrates how to setup cinemachine and control animations, particle systems, audio, etc.
