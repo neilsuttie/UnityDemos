@@ -1,0 +1,23 @@
+Chair 
+https://www.cgtrader.com/free-3d-models/furniture/chair/thonet-s43-chair-3741a74f9ef83f0954213dbc84619aaa
+
+Bust
+https://assetstore.unity.com/packages/3d/nefertiti-56818
+
+Pedestal
+https://www.turbosquid.com/3d-models/free-max-model-architectural-modules/767833
+
+Blinds
+https://free3d.com/3d-model/window-blinds-vray-79169.html
+
+Cup
+https://www.cgtrader.com/items/2562924/download-page
+
+Bamboo Material
+https://freepbr.com/materials/bamboo-wood-pbr-material/
+
+Shadow Masks
+The above list is an oversimplification description of shadowmask lighting. Complete information can be found https://docs.unity3d.com/Manual/LightMode-Mixed-Shadowmask.html.
+
+Lighting setup descriptions from:
+https://learn.unity.com/tutorial/creating-believable-visuals#5c7f8528edbc2a002053b547
